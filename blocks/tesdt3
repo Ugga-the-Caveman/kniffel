@@ -1,0 +1,9 @@
+games=3
+bonus_oben_limit=63
+bonus_oben=35
+fullHouse=25
+smallStreet=30
+largeStreet=40
+kniffel=50
+field_c0r11=,,,,/,,,,/,,,,/1,1,1,1,1
+field_c1r11=,,,,/,,,,/,,,,/1,1,1,2,2
